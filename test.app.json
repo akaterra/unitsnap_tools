@@ -1,0 +1,355 @@
+{
+    "symbols": {
+        "A": {
+            "length": {
+                "contextName": "A",
+                "descriptor": {
+                    "value": 0,
+                    "writable": false,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "A.length",
+                "type": "value",
+                "level": 0
+            },
+            "prototype": {
+                "contextName": "A",
+                "descriptor": {
+                    "value": {},
+                    "writable": false,
+                    "enumerable": false,
+                    "configurable": false
+                },
+                "name": "A.prototype",
+                "type": "value",
+                "level": 0
+            },
+            "name": {
+                "contextName": "A",
+                "descriptor": {
+                    "value": "A",
+                    "writable": false,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "A.name",
+                "type": "value",
+                "level": 0
+            },
+            "constructor": {
+                "contextName": "Object",
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "Object.constructor",
+                "type": "function",
+                "level": 1
+            },
+            "a": {
+                "contextName": "Object",
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "Object.a",
+                "type": "function",
+                "level": 1
+            },
+            "__defineGetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__defineGetter__",
+                "type": "function",
+                "level": 2
+            },
+            "__defineSetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__defineSetter__",
+                "type": "function",
+                "level": 2
+            },
+            "hasOwnProperty": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "hasOwnProperty",
+                "type": "function",
+                "level": 2
+            },
+            "__lookupGetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__lookupGetter__",
+                "type": "function",
+                "level": 2
+            },
+            "__lookupSetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__lookupSetter__",
+                "type": "function",
+                "level": 2
+            },
+            "isPrototypeOf": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "isPrototypeOf",
+                "type": "function",
+                "level": 2
+            },
+            "propertyIsEnumerable": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "propertyIsEnumerable",
+                "type": "function",
+                "level": 2
+            },
+            "toString": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "toString",
+                "type": "function",
+                "level": 2
+            },
+            "valueOf": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "valueOf",
+                "type": "function",
+                "level": 2
+            },
+            "toLocaleString": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "toLocaleString",
+                "type": "function",
+                "level": 2
+            }
+        },
+        "B": {
+            "length": {
+                "contextName": "B",
+                "descriptor": {
+                    "value": 0,
+                    "writable": false,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "B.length",
+                "type": "value",
+                "level": 0
+            },
+            "prototype": {
+                "contextName": "B",
+                "descriptor": {
+                    "value": {},
+                    "writable": false,
+                    "enumerable": false,
+                    "configurable": false
+                },
+                "name": "B.prototype",
+                "type": "value",
+                "level": 0
+            },
+            "name": {
+                "contextName": "B",
+                "descriptor": {
+                    "value": "B",
+                    "writable": false,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "B.name",
+                "type": "value",
+                "level": 0
+            },
+            "constructor": {
+                "contextName": "A",
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "A.constructor",
+                "type": "function",
+                "level": 1
+            },
+            "b": {
+                "contextName": "A",
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "A.b",
+                "type": "function",
+                "level": 1
+            },
+            "a": {
+                "contextName": "Object",
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "Object.a",
+                "type": "function",
+                "level": 2
+            },
+            "__defineGetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__defineGetter__",
+                "type": "function",
+                "level": 3
+            },
+            "__defineSetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__defineSetter__",
+                "type": "function",
+                "level": 3
+            },
+            "hasOwnProperty": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "hasOwnProperty",
+                "type": "function",
+                "level": 3
+            },
+            "__lookupGetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__lookupGetter__",
+                "type": "function",
+                "level": 3
+            },
+            "__lookupSetter__": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "__lookupSetter__",
+                "type": "function",
+                "level": 3
+            },
+            "isPrototypeOf": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "isPrototypeOf",
+                "type": "function",
+                "level": 3
+            },
+            "propertyIsEnumerable": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "propertyIsEnumerable",
+                "type": "function",
+                "level": 3
+            },
+            "toString": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "toString",
+                "type": "function",
+                "level": 3
+            },
+            "valueOf": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "valueOf",
+                "type": "function",
+                "level": 3
+            },
+            "toLocaleString": {
+                "contextName": null,
+                "descriptor": {
+                    "writable": true,
+                    "enumerable": false,
+                    "configurable": true
+                },
+                "name": "toLocaleString",
+                "type": "function",
+                "level": 3
+            }
+        }
+    }
+}
